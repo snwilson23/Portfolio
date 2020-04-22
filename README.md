@@ -15,3 +15,9 @@ A project for a Python class which takes a user input and then scrapes the TED t
 
 Description:
 A Jupyter notebook (and exercises) I created for an assignment where I had to teach my fellow students the basics of list comprehensions in Python.
+
+### Mountain Projects Scraping
+#### file name: mountainProject.py
+
+Description:
+A simple example of a web scrape that I did of the mountain projects API which read the various climbing grades of the input longitude and latitude. It then calculates the average grade of said location.
