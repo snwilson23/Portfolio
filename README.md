@@ -1,5 +1,6 @@
 # Projects
 ## Completed / in progress projects
+To be updated at the end of the current semester.
 
 ### Scraping TED Talks
 #### file name: gender_sentiment.py
